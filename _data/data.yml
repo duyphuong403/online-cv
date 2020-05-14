@@ -47,19 +47,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      The following are summary about my knowledges: |
+      - Front-end: Angular, VueJS, jQuery, HTML, JavaScript, CSS, Android (Java) | 
+      - Back-end: C#, .Net Core, ASP.Net, JavaEE, PHP (standard), NodeJS. | 
+      - Databases:  MySQL, SQL Server, PostgreSQL, MongoDB. |
+      - Technologies: SPA, SOLID principles, MVC, Redis Cache. |
+      With my quick learning skills, responsibility, and passion. I confident to apply and contribute to the company. 
 education:
     - degree: Higher Diploma in Software Engeneering
       university: FPT Aptech
       time: 2018 - 2020
       details: |
-        At this school, I was learn about C, C#, ASP.Net, .Net Framework, AngularJS/HTML/CSS, Bootstrap, jQuery, JavaScript, PHP, MSSQL, MySQL, JavaEE, Android with Java. I good understand about OOP, Restful API, Design patterns.
-        After graduated, I was create a personal project, it's a server written by NodeJS (ES6). It have some features such as using the Redis to cache, JWT to authentication, using PostgreSQL database.
+        At this school, I learned about C, C#, ASP.Net, .Net Framework, AngularJS/HTML/CSS, Bootstrap, jQuery, JavaScript, PHP, MSSQL, MySQL, JavaEE, Android with Java. I good understanding of OOP, Restful API, Design patterns.
+        After graduating, I work in a personal project, it's a server written by NodeJS (ES6). It has some features such as using the Redis to cache, JWT to authentication, using the PostgreSQL database.
 #     - degree: BSc in Applied Mathematics
 #       university: Bristol University
 #       time: 2007 - 2011
@@ -72,113 +72,96 @@ education:
 #           - Bullet point
 #           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Internship
+      time: June 2019 - August 2019 
+      company: ISAAS
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        QA project is a web application created to serve for the Arlo internal employee. It provides the ability to monitoring, checking, report issues that relate to the production process. The Restful APIs at server-side written by C#, .Net Core. The front-end is a SPA with AngularJS. In this company help me understood more about Authentication, Restful API, OOP and Single Page Application.
+    - role: Probation Staff
+      time: December 2019 - March 2020
+      company: CPMOJO
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Intelligence Test System is a system used for the Arlo products automation test. Software is written by Python and running on Linux CentOS. By combine with some hardware like LED, sensor, speaker, and microphone. The ITS's purpose is to test all features of a camera or doorbell to consider it good or not.
+        I joined as a probation staff. Through 3 months, I learned the knowledge about Linux, also Python, how to use commands, SSH, and telnet protocol, using OpenCV to check image quality...
 projects:
-    title: Projects
+    title: Projects at school
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Petcare
+        link: "https://github.com/duyphuong403/PetCare"
+        tagline: "A web application online selling about pet care products. It's written by JavaEE and using MSSQL database. My responsibility:
+         - Analyst requirement, design business logic, tables of the database, diagrams. Then training and division tasks for the team members.
+         - Monitoring and Support.
+         - Smoke test and bug fixing."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: E-Greeting
+        link: "https://github.com/duyphuong403/E-Greeting"
+        tagline: "a web application that provides the ability to: choose and send a message with a card to someone. It's written by ASP.Net, .Net Framework and the MSSQL database. My responsibility:
+        - Analyst requirement, design business logic, tables of the database, diagrams. Then training and division tasks for the team members. 
+        - Monitoring and Support 
+        - Smoke test and bug fixing
+        After this project, I improved my programming skill, good data validation, catch the exception, improve the algorithm."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: PHDFruits
+        link: "https://github.com/duyphuong403/PHDFruits"
+        tagline: "an online fruit shopping web application that provides basic features of a shopping site. It's written by PHP (standard) and use the MYSQL database. My responsibility: 
+        - Analyst, design and write code project based on requirement specifications. 
+        - Smoke test and bug fixing.
+         After this project, I understood about OOP, the way the client sends the request to the server and server response to the client. Understood Session and Cookie.
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: NodeJS and PostgreSQL
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript/jQuery/HTML/CSS/Bootstrap
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: VueJS
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C#, ASP.Net, .Net Framework
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: JavaEE
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PHP
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Phuong Ngo Software Engineering Resume
