@@ -143,10 +143,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: NodeJS and PostgreSQL
+      - name: NodeJS and Javascript
+        level: 80%
+        
+      - name: Redis Cache
         level: 80%
 
-      - name: Javascript and jQuery
+      - name: MSSQL, MySQL and PostgreSQL
         level: 80%
         
       - name: HTML and CSS 
