@@ -71,18 +71,18 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-experiences:
-    - role: Internship
-      time: June 2019 - August 2019 
-      company: ISAAS
-      details: |
-        QA project is a web application created to serve for the Arlo internal employee. It provides the ability to monitoring, checking, report issues that relate to the production process. The Restful APIs at server-side written by C#, .Net Core. The front-end is a SPA with AngularJS. In this company help me understood more about Authentication, Restful API, OOP and Single Page Application.
+experiences:    
     - role: Probation Staff
       time: December 2019 - March 2020
       company: CPMOJO
       details: |
         Intelligence Test System is a system used for the Arlo products automation test. Software is written by Python and running on Linux CentOS. By combine with some hardware like LED, sensor, speaker, and microphone. The ITS's purpose is to test all features of a camera or doorbell to consider it good or not.
         I joined as a probation staff. Through 3 months, I learned the knowledge about Linux, also Python, how to use commands, SSH, and telnet protocol, using OpenCV to check image quality...
+    - role: Internship
+      time: June 2019 - August 2019 
+      company: ISAAS
+      details: |
+        QA project is a web application created to serve for the Arlo internal employee. It provides the ability to monitoring, checking, report issues that relate to the production process. The Restful APIs at server-side written by C#, .Net Core. The front-end is a SPA with AngularJS. In this company help me understood more about Authentication, Restful API, OOP and Single Page Application.
 projects:
     title: Projects at school
     intro: >
@@ -90,14 +90,14 @@ projects:
     assignments:
       - title: Petcare
         link: "https://github.com/duyphuong403/PetCare"
-        tagline: "A web application online selling about pet care products. It's written by JavaEE and using MSSQL database. My responsibility:
+        tagline: "(Final semester project) A web application online selling about pet care products. It's written by JavaEE and using MSSQL database. My responsibility:
          - Analyst requirement, design business logic, tables of the database, diagrams. Then training and division tasks for the team members.
          - Monitoring and Support.
          - Smoke test and bug fixing."
 
       - title: E-Greeting
         link: "https://github.com/duyphuong403/E-Greeting"
-        tagline: "A web application that provides the ability to: choose and send a message with a card to someone. It's written by ASP.Net, .Net Framework and the MSSQL database. My responsibility:
+        tagline: "(Semester 3 project) A web application that provides the ability to: choose and send a message with a card to someone. It's written by ASP.Net, .Net Framework and the MSSQL database. My responsibility:
         - Analyst requirement, design business logic, tables of the database, diagrams. Then training and division tasks for the team members. 
         - Monitoring and Support 
         - Smoke test and bug fixing
@@ -105,17 +105,13 @@ projects:
 
       - title: PHDFruits
         link: "https://github.com/duyphuong403/PHDFruits"
-        tagline: "An online fruit shopping web application that provides basic features of a shopping site. It's written by PHP (standard) and use the MYSQL database. My responsibility: 
+        tagline: "(Semester 2 project) An online fruit shopping web application that provides basic features of a shopping site. It's written by PHP (standard) and use the MYSQL database. My responsibility: 
         - Analyst, design and write code project based on requirement specifications. 
         - Smoke test and bug fixing.
          After this project, I understood about OOP, the way the client sends the request to the server and server response to the client. Understood Session and Cookie."
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Amazing Bridges
+        link: "https://github.com/duyphuong403/Amazing-Bridge"
+        tagline: "(First semester project) A website that is created to help many people have more information about amazing bridges in the world. It provides reliable and up-to-date information about all types of bridges from well-known everywhere on the world. It simply is a HTML, CSS and a little jQuery with hardcode"
 
 # publications:
 #     title: Publications
@@ -167,10 +163,6 @@ skills:
       - name: PHP
         level: 70%
         
-    title: Soft skills
-
-    toolset:
-
       - name: Thinking
         level: 80%
         
