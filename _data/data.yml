@@ -47,11 +47,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      The following are summary about my knowledges: |
+      The following are summary about my knowledges:
       - Front-end: Angular, VueJS, jQuery, HTML, JavaScript, CSS, Android (Java) | 
       - Back-end: C#, .Net Core, ASP.Net, JavaEE, PHP (standard), NodeJS. | 
       - Databases:  MySQL, SQL Server, PostgreSQL, MongoDB. |
-      - Technologies: SPA, SOLID principles, MVC, Redis Cache. |
+      - Technologies: SPA, SOLID principles, MVC, Redis Cache.
       With my quick learning skills, responsibility, and passion. I confident to apply and contribute to the company. 
 education:
     - degree: Higher Diploma in Software Engeneering
@@ -86,9 +86,7 @@ experiences:
 projects:
     title: Projects at school
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are my projects when I'm a student at the school.
     assignments:
       - title: Petcare
         link: "https://github.com/duyphuong403/PetCare"
@@ -99,7 +97,7 @@ projects:
 
       - title: E-Greeting
         link: "https://github.com/duyphuong403/E-Greeting"
-        tagline: "a web application that provides the ability to: choose and send a message with a card to someone. It's written by ASP.Net, .Net Framework and the MSSQL database. My responsibility:
+        tagline: "A web application that provides the ability to: choose and send a message with a card to someone. It's written by ASP.Net, .Net Framework and the MSSQL database. My responsibility:
         - Analyst requirement, design business logic, tables of the database, diagrams. Then training and division tasks for the team members. 
         - Monitoring and Support 
         - Smoke test and bug fixing
@@ -107,10 +105,10 @@ projects:
 
       - title: PHDFruits
         link: "https://github.com/duyphuong403/PHDFruits"
-        tagline: "an online fruit shopping web application that provides basic features of a shopping site. It's written by PHP (standard) and use the MYSQL database. My responsibility: 
+        tagline: "An online fruit shopping web application that provides basic features of a shopping site. It's written by PHP (standard) and use the MYSQL database. My responsibility: 
         - Analyst, design and write code project based on requirement specifications. 
         - Smoke test and bug fixing.
-         After this project, I understood about OOP, the way the client sends the request to the server and server response to the client. Understood Session and Cookie.
+         After this project, I understood about OOP, the way the client sends the request to the server and server response to the client. Understood Session and Cookie."
 #       - title: Atom
 #         link: "#"
 #         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
@@ -148,7 +146,10 @@ skills:
       - name: NodeJS and PostgreSQL
         level: 80%
 
-      - name: Javascript/jQuery/HTML/CSS/Bootstrap
+      - name: Javascript and jQuery
+        level: 80%
+        
+      - name: HTML and CSS 
         level: 80%
 
       - name: VueJS
