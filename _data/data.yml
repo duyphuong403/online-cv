@@ -111,8 +111,7 @@ projects:
          After this project, I understood about OOP, the way the client sends the request to the server and server response to the client. Understood Session and Cookie."
       - title: Amazing Bridges
         link: "https://github.com/duyphuong403/Amazing-Bridge"
-        tagline: "(First semester project) A website that is created to help many people have more information about amazing bridges in the world. It provides reliable and up-to-date information about all types of bridges from well-known everywhere on the world. It simply is a HTML, CSS and a little jQuery with hardcode"
-
+        tagline: "(First semester project) A website that is created to help many people have more information about amazing bridges in the world. It provides reliable and up-to-date information about all types of bridges from well-known everywhere on the world. It simply is an HTML, CSS and a little JavaScript with hardcoded
 # publications:
 #     title: Publications
 #     intro: |
