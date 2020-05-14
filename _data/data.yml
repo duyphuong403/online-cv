@@ -58,10 +58,8 @@ education:
       university: FPT Aptech
       time: 2018 - 2020
       details: |
-        At this school, I was learn about C, C#, ASP.Net, .Net Framework, AngularJS/HTML/CSS, Bootstrap, jQuery, JavaScript, 
-PHP, MSSQL, MySQL, JavaEE, Android with Java. I good understand about OOP, Restful API, Design patterns.
-        After graduated, I was create a personal project, it's a server written by NodeJS (ES6). It have some features such as using the Redis
-to cache, JWT to authentication, using PostgreSQL database.
+        At this school, I was learn about C, C#, ASP.Net, .Net Framework, AngularJS/HTML/CSS, Bootstrap, jQuery, JavaScript, PHP, MSSQL, MySQL, JavaEE, Android with Java. I good understand about OOP, Restful API, Design patterns.
+        After graduated, I was create a personal project, it's a server written by NodeJS (ES6). It have some features such as using the Redis to cache, JWT to authentication, using PostgreSQL database.
 #     - degree: BSc in Applied Mathematics
 #       university: Bristol University
 #       time: 2007 - 2011
