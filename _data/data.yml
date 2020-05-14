@@ -167,5 +167,25 @@ skills:
       - name: PHP
         level: 70%
 
+      - name: Thinking
+        level: 80%
+        
+      - name: Quick learn
+        level: 80%
+        
+      - name: Research
+        level: 80%
+        
+      - name: Comunication
+        level: 80%
+        
+      - name: Teamwork
+        level: 90%
+        
+      - name: Responsibility
+        level: 90%
+        
+      - name: Time management
+        level: 80%
 footer: >
     Phuong Ngo Software Engineering Resume
