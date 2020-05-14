@@ -3,45 +3,45 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Phuong Ngo Duy
+    tagline: Back-end Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email:ngoduyphuong2000@gmail.com
+    phone: 84 762327226
+#     website: blog.webjeda.com #do not add http://
+    linkedin: Phuong Ngo
+    github: duyphuong403
+#     gitlab:
+#     bitbucket:
+#     twitter: '@webjeda'
+#     stack-overflow: # Number/Username, e.g. 123456/alandoe
+#     codewars:
+#     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Vietnamese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Good
 
-      - idiom: Spanish
-        level: Professional
+#       - idiom: Spanish
+#         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
-      - item: Cooking
+      - item: Shopping
         link:
 
 career-profile:
@@ -54,28 +54,25 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Higher Diploma in Software Engeneering
+      university: FPT Aptech
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        At this school, I was learn about C, C#, ASP.Net, .Net Framework, AngularJS/HTML/CSS, Bootstrap, jQuery, JavaScript, 
+PHP, MSSQL, MySQL, JavaEE, Android with Java. I good understand about OOP, Restful API, Design patterns.
+        After graduated, I was create a personal project, it's a server written by NodeJS (ES6). It have some features such as using the Redis
+to cache, JWT to authentication, using PostgreSQL database.
+#     - degree: BSc in Applied Mathematics
+#       university: Bristol University
+#       time: 2007 - 2011
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
+#           - Bullet point
+#           - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
